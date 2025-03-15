@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://beterg.csgad.com/ENf/sitemap.xml.gz
